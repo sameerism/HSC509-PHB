@@ -43,3 +43,9 @@ __Email: sameer@iitism.ac.in__
 
 1. Moghaddam, F.M. (2005). Great Ideas in Psychology: A Cultural and Historical Introduction. Oxford: Oneworld 
 2. Gross. R.(2010). Psychology: The Science of Mind and Behaviour. Oxon: Hodder Education
+
+
+## Evaluation
+1. Mid Semester Exam: 30
+2. End Semester Exam: 50
+3. Project/Quiz/Attendance : 20
